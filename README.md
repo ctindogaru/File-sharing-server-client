@@ -13,7 +13,7 @@ Example: ./selectserver 1000 users_config shared_files
 Example: ./client 127.0.0.1 1000  
   
 Commands available on the client:  
-1. login <user_name> <pass>  
+1. login <user_name> <pass_word>  
 Example: login Doru protocoale  
 2. logout  
 3. getuserlist -> you can see all the users from the system  
